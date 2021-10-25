@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
 // this is dz/dx
 double d2f(double x, double y, double z)
 {
